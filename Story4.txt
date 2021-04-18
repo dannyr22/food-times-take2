@@ -1,0 +1,22 @@
+Hi Mobilise
+
+First of all please let me apologise for not being able to complete the task given. It seems I am not ready for the challenge of applying for front-end dev' roles that aren't junior quite yet.
+
+I have been able to build a very basic store which shows that I am proffienct with React and styling, as I continue my development I sincerely hope we can keep our communication channels open so I can come back and hit this task out the ball park.
+
+My 3 favourite websites are: 
+
+https://smarkets.com/ This is a betting exchange website, it's built with React, it's extremely quick, I really like the dark mode, the UI is incredibly smooth and adjusts very quickly to any changes. The styling is minimal but it does exactly what it needs to do to guide users in the right direction.
+
+https://www.expedia.co.uk/ I remember this website and websites like it being painful to try and use, but now travel websites and this one especially are smooth and dreamy. I've picked this one because it has a transition from bad in the past to good in the present which is easy to see and emphasises the importance of great UI. What used to be complicated, muddled and a never ending collection of roundabouts is now a smooth motorway. Not to mention it's also speedy and the data arrives instantly. Also built with React.
+
+https://www.dropbox.com/ Dropbox is a webpage that I use often and I've always found it to be extremely user friendly and also very intuitive. The functionality is easy to figure out and it's desire to help the user comes across very strongly. I also like their use of images always switching between engaging photographs and comfy-styled graphics.
+
+Once again thank you for your time given to me, it's very much appreciated. I hope you like my webpage and I very much look forward to speaking with you in the future.
+
+If you have any questions I'd be more than happy to answer them.
+
+Kind regards
+
+Danny Roberts
+dannyroberts.b@gmail.com
