@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Food Times
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made with create-react-app and styled using Bootstrap.
+This project consists of Login page - product page - and a cart page.
+
+![homepage](src/images/homepage.jpg)
 
 ## Available Scripts
 
